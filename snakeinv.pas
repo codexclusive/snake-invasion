@@ -2,7 +2,7 @@
 {------ Snake Invasion ------------------------------------------
 
         by Gabor Kotik
-        GitHub: codexclusive
+        github: codexclusive
 
         Demonstrates how to implement graphics in Free
         Pascal. The program draws a given number of snakes
